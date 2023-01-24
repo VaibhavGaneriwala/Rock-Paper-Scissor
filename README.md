@@ -18,5 +18,5 @@ Project is created with:
 To run this project, download the code and open it in your code editor and then run this command in Terminal:
 
 ```
-python3 run main.py
+python3 main.py
 ```
